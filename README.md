@@ -37,11 +37,11 @@ Data logger to attached to a kit.
 - Log to Data.CSV file
 - Flash LED during write to file as proof of life
 
+<HR>
+
 <p align="center">
        <img width="600" height="338" src="/Images/P500.PNG">
 </p>
-
-<HR>
 
 ## Tools
 
