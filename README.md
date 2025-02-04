@@ -15,12 +15,15 @@
 # Adafruit-Feather
 Adafruit Feather projects
 
+<HR>
+
 [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
 - Old verson Bootsel switch faces up.
 - New version Bootsel switch faces out the side and the switch can be used by the user program.
 - [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
   - Pin layout, SWD pads, NeoPixel swirl test, 
 
+<HR>
   
 ## Project Goal
 
@@ -37,6 +40,8 @@ Data logger to attached to a kit.
 <p align="center">
        <img width="600" height="338" src="/Images/P500.PNG">
 </p>
+
+<HR>
 
 ## Tools
 
