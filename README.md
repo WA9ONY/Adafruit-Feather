@@ -34,6 +34,10 @@ Data logger to attached to a kit.
 - Log to Data.CSV file
 - Flash LED during write to file as proof of life
 
+<p align="center">
+       <img width="600" height="338" src="/Images/P500.PNG">
+</p>
+
 ## Tools
 
 - [Raspberry Pi P500](https://www.raspberrypi.com/products/raspberry-pi-500/) running [Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/)
