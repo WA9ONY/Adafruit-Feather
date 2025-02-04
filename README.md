@@ -56,7 +56,11 @@ Data logger to attached to a kit.
 
 
 <HR>
-  
+
+<p align="center">
+       <img width="276" height="291" src="/Images/Adafruit_blinka.png">
+</p>
+
 ## Software
 
 - [CircuitPython](https://circuitpython.org/)
