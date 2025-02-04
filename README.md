@@ -22,6 +22,8 @@ Adafruit Feather projects
 - New version Bootsel switch faces out the side and the switch can be used by the user program.
 - [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
   - Pin layout, SWD pads, NeoPixel swirl test, 
+- [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+
 
 <HR>
   
