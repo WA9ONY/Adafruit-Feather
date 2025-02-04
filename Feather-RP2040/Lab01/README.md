@@ -1,4 +1,9 @@
+<P align="center"> - <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> -<BR>
+- <A HREF="https://github.com/WA9ONY">GitHub WA9ONY</A>: 
+<A HREF="https://github.com/WA9ONY/Adafruit-Feather/tree/main">Adafruit Feather</A> -  
+
 Adafruit Feather RP2040 [Index](https://github.com/WA9ONY/Adafruit-Feather/tree/main/Feather-RP2040)
+</P>
 
 The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4 o3-mini-high in a conversation with David Haworth, WA9ONY.
 
