@@ -2,7 +2,7 @@
 - <A HREF="https://github.com/WA9ONY">GitHub WA9ONY</A>: 
 <A HREF="https://github.com/WA9ONY/Adafruit-Feather/tree/main">Adafruit Feather</A><BR> 
  <BR>
-Adafruit Feather RP2040 [Index](https://github.com/WA9ONY/Adafruit-Feather/tree/main/Feather-RP2040)
+<A HREF="https://github.com/WA9ONY/Adafruit-Feather/tree/main/Feather-RP2040"> Adafruit Feather RP2040 Index</A>
 </P>
 
 The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4 o3-mini-high in a conversation with David Haworth, WA9ONY.
