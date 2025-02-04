@@ -1,4 +1,4 @@
-Below is the updated lab guide that uses the **Mu IDE** instead of Thonny. The overall objectives remain the same: you’ll familiarize yourself with the Feather RP2040 hardware, set up your development environment, and deploy your first “blink” program using MicroPython.
+[Index]()
 
 ---
 
