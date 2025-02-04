@@ -99,7 +99,7 @@ YouTube Tutorials and Lessions
 
 ## AI Tools
 
-As of Feb. 4, 2025 [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  [ChatGPT o3-mini-high](https://en.wikipedia.org/wiki/OpenAI_o3) is used to
+As of Feb. 4, 2025 [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  [ChatGPT o3-mini-high](https://en.wikipedia.org/wiki/OpenAI_o3) is used to:
 - Research hardware operation
 - Research software techniques
 - Create CircuitPython code
