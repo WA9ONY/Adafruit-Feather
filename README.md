@@ -31,7 +31,7 @@ Data logger to attached to a kit.
 <HR>
 
 <p align="center">
-       <img width="500" height="281" src="/Images/FeatherRP2040.PNG">
+       <img width="500" height="281" src="/Images/FeatherRP2040a.PNG">
 </p>
   
 ## Hardware
@@ -44,6 +44,11 @@ Data logger to attached to a kit.
   - Pin layout, SWD pads, NeoPixel swirl test, 8 MB 
 - [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
 - [What Is Feather?](https://youtu.be/W9jjgKaE1_k?si=ynulODlL1M82y7RH)
+
+<p align="center">
+       <img width="500" height="348" src="/Images/DPS310.PNG">
+</p>
+
 
 [Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/4494)
 -  Product ID: 4494
