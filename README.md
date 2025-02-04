@@ -94,16 +94,16 @@ YouTube Tutorials and Lessions
 <HR>
 
 <p align="center">
-       <img width="59" height="48" src="/Images/OpenAI_Icon.png">
+       <img width="590" height="160" src="/Images/OpenAI_Logo.png">
 </p>
 
 ## AI Tools
 
-ChatGPT o3-mini-high is used to
-- Reserach hardware operation
+As of Feb. 4, [OpenAI](https://en.wikipedia.org/wiki/OpenAI) 2025 ChatGPT o3-mini-high is used to
+- Research hardware operation
 - Research software techniques
 - Create CircuitPython code
 - etc.
-
+The world of AI is moving fast and in a few months there will be better AI coding models.
 
 - [OpenAI](https://openai.com/) ChatGPT o3-mini-high
