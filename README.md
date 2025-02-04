@@ -66,6 +66,12 @@ Data logger to attached to a kit.
 YouTube
 -  [Circuit Python Tutorials](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by Prof. John Gallaugher
 
+-  [Build With Prof. G](https://www.youtube.com/channel/UCY3yzXkS1vcqxN_RqKU17pg)
+
+-  [Prof. John Gallaugher](https://www.youtube.com/profgallaugher)
+
+- [Paul McWhorter playlist oof lessions](https://www.youtube.com/@paulmcwhorter/playlists)
+  - [Raspberry Pi Pico W Lessons for Absolute](https://www.youtube.com/playlist?list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5)
 
 <HR>
 
