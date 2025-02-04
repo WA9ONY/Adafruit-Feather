@@ -37,7 +37,7 @@ Data logger to attached to a kit.
 - Old verson Bootsel switch faces up.
 - New version Bootsel switch faces out the side and the switch can be used by the user program.
 - [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
-  - Pin layout, SWD pads, NeoPixel swirl test, 
+  - Pin layout, SWD pads, NeoPixel swirl test, 8 MB 
 - [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
 
 [Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/4494)
