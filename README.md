@@ -82,7 +82,7 @@ YouTube Tutorials and Lessions
        <img width="600" height="338" src="/Images/P500.PNG">
 </p>
 
-## Tools
+## Development Tools
 
 - [Raspberry Pi P500](https://www.raspberrypi.com/products/raspberry-pi-500/) running [Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/)
   - Help > Bookshelf > Books > Get Started with MicroPython on Raspberry Pi Pico
@@ -90,7 +90,20 @@ YouTube Tutorials and Lessions
 - [Mu editor V1.0.3](https://codewith.mu/)
 
 
+
 <HR>
+
+<p align="center">
+       <img width="59" height="48" src="/Images/OpenAI_Icon.png">
+</p>
+
+## AI Tools
+
+ChatGPT o3-mini-high is used to
+- Reserach hardware operation
+- Research software techniques
+- Create CircuitPython code
+- etc.
 
 
 - [OpenAI](https://openai.com/) ChatGPT o3-mini-high
