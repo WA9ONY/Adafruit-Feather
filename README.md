@@ -26,7 +26,10 @@ Data logger to attached to a kit.
 - NeoPixel color flash indicates PWS voltage.
 - Log to Data.CSV file
 - Flash LED during write to file as proof of life
-
+- Check if Data.CSV file exist.
+- Check available memory for Data.CSV file.
+- Look into different ways to do time loops
+- I2C sensor DPS310
 
 <HR>
   
@@ -39,6 +42,7 @@ Data logger to attached to a kit.
 - [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
   - Pin layout, SWD pads, NeoPixel swirl test, 8 MB 
 - [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+- [What Is Feather?](https://youtu.be/W9jjgKaE1_k?si=ynulODlL1M82y7RH)
 
 [Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/4494)
 -  Product ID: 4494
