@@ -7,9 +7,6 @@
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md">T-Echo</A> -
 </P>  
 
-<p align="center">
-       <img width="500" height="281" src="/Images/FeatherRP2040.PNG">
-</p>
 
 # Adafruit-Feather Projects
 
@@ -32,6 +29,10 @@ Data logger to attached to a kit.
 - I2C sensor DPS310
 
 <HR>
+
+<p align="center">
+       <img width="500" height="281" src="/Images/FeatherRP2040.PNG">
+</p>
   
 ## Hardware
 
