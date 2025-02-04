@@ -11,19 +11,7 @@
        <img width="500" height="281" src="/Images/FeatherRP2040.PNG">
 </p>
 
-
-# Adafruit-Feather
-Adafruit Feather projects
-
-<HR>
-
-[Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
-- Old verson Bootsel switch faces up.
-- New version Bootsel switch faces out the side and the switch can be used by the user program.
-- [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
-  - Pin layout, SWD pads, NeoPixel swirl test, 
-- [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
-
+# Adafruit-Feather Projects
 
 <HR>
   
@@ -39,6 +27,25 @@ Data logger to attached to a kit.
 - Log to Data.CSV file
 - Flash LED during write to file as proof of life
 
+
+<HR>
+  
+## Hardware
+
+[Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
+- Product ID: 4884
+- Old verson Bootsel switch faces up.
+- New version Bootsel switch faces out the side and the switch can be used by the user program.
+- [Desk of Ladyada - RP2040 Feather prepares to take flight!](https://www.youtube.com/watch?v=qkN2TXqj59M)
+  - Pin layout, SWD pads, NeoPixel swirl test, 
+- [Introducing Adafruit Feather RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+
+[Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/4494)
+-  Product ID: 4494
+
+[Adafruit STEMMA QT / Qwiic JST SH 4-pin Cable](https://www.adafruit.com/product/4210)
+
+
 <HR>
 
 <p align="center">
@@ -49,6 +56,7 @@ Data logger to attached to a kit.
 
 - [Raspberry Pi P500](https://www.raspberrypi.com/products/raspberry-pi-500/) running [Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/)
   - Help > Bookshelf > Books > Get Started with MicroPython on Raspberry Pi Pico
+    - Free 139 page book on MicroPython and the Raspberry Pi Pico (RP2040)
 - [Mu editor V1.0.3](https://codewith.mu/)
 - [CircuitPython](https://circuitpython.org/)
   - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
