@@ -46,6 +46,7 @@ Data logger to attached to a kit.
 ## Tools
 
 - [Raspberry Pi P500](https://www.raspberrypi.com/products/raspberry-pi-500/) running [Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/)
+  - Help > Bookshelf > Books > Get Started with MicroPython on Raspberry Pi Pico
 - [Mu editor V1.0.3](https://codewith.mu/)
 - [CircuitPython](https://circuitpython.org/)
   - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
