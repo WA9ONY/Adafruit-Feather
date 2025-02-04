@@ -1,4 +1,3 @@
 
-
-**Lab 1: Introduction to the Adafruit Feather RP2040**
+Lab 1: Introduction to the Adafruit Feather RP2040
 
