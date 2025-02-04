@@ -56,6 +56,18 @@ Data logger to attached to a kit.
 
 
 <HR>
+  
+## Software
+
+- [CircuitPython](https://circuitpython.org/)
+  - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
+  - [Libraries](https://circuitpython.org/libraries)
+
+YouTube
+-  [Circuit Python Tutorials](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by Prof. John Gallaugher
+
+
+<HR>
 
 <p align="center">
        <img width="600" height="338" src="/Images/P500.PNG">
@@ -67,7 +79,9 @@ Data logger to attached to a kit.
   - Help > Bookshelf > Books > Get Started with MicroPython on Raspberry Pi Pico
     - Free 139 page book on MicroPython and the Raspberry Pi Pico (RP2040)
 - [Mu editor V1.0.3](https://codewith.mu/)
-- [CircuitPython](https://circuitpython.org/)
-  - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
-  - [Libraries](https://circuitpython.org/libraries)
+
+
+<HR>
+
+
 - [OpenAI](https://openai.com/) ChatGPT o3-mini-high
