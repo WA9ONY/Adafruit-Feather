@@ -1,6 +1,6 @@
 Adafruit Feather RP2040 [Index](https://github.com/WA9ONY/Adafruit-Feather/tree/main/Feather-RP2040)
 
-The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4o-mini-high in a conversation with David Haworth, WA9ONY.
+The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4 o3-mini-high in a conversation with David Haworth, WA9ONY.
 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
