@@ -58,7 +58,7 @@ Data logger to attached to a kit.
 <HR>
 
 <p align="center">
-       <img width="276" height="291" src="/Images/Adafruit_blinka.png">
+       <img width="138" height="146" src="/Images/Adafruit_blinkaS.png">
 </p>
 
 ## Software
