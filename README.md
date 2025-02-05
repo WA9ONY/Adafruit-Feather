@@ -84,7 +84,7 @@ FeatherWings attach to Feathers and provide additional features. These include *
 - **Portable Game Console**: RP2040 Feather + TFT FeatherWing + Battery.
 - **Weather Station**: Feather M4 + Sensor FeatherWing + Wi-Fi FeatherWing.
 
-
+<HR>
 <HR>
   
 ## 5. Project 1 Data Logger
