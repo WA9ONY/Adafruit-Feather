@@ -154,8 +154,10 @@ Data logger to attached to a kit.
 # 7. Software
 
 - [CircuitPython](https://circuitpython.org/)
+  - [GitHub Adafruit_CircuitPython_Bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle)
   - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
   - [Libraries](https://circuitpython.org/libraries)
+  - [Examples code](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20250205) >340 product, >1,400 Circuitpython example files as of February 05, 2025
 
  Adafruit
 - [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/play-file)
