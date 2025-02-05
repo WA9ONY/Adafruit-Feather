@@ -15,7 +15,7 @@
 
 Adafruit Feather ecosystem is extensive with great 
 - [broad product line](https://www.adafruit.com/category/943),
-- Documentation,
+- [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico),
 - [Videos](https://www.youtube.com/@adafruit),
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit),
