@@ -15,7 +15,7 @@ Adafruit’s **[Feather and FeatherWing](https://www.adafruit.com/category/943)*
 
 ---
 
-## **1. Adafruit Feather: The Core Boards**
+## **1. Adafruit Feather: The Core [Boards](https://www.adafruit.com/category/946)**
 Feathers are small, lightweight microcontroller boards designed for prototyping and embedded systems. They share a **standard form factor** (2.0" x 0.9") and **pinout**, making them interchangeable. 
 
 ### **Feather Categories**
