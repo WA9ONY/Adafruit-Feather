@@ -11,7 +11,9 @@
 
 <HR>
   
-## Project Goal
+## Project 1 Goals
+
+<A HREF="https://github.com/WA9ONY/Adafruit-Feather/blob/main/Feather-RP2040/README.md">Adafruit Feather RP2040</A>
 
 Data logger to attached to a kit.
 
