@@ -11,7 +11,7 @@
 
 ### **Overview of the Adafruit Feather and FeatherWing Product Line**
 
-Adafruit’s **[Feather and FeatherWing](https://www.adafruit.com/category/943)** ecosystem is a modular, compact, and extensible platform for embedded systems development. The **Feather** boards serve as microcontroller development boards, while **FeatherWings** are add-on boards that expand their functionality. Adafruit Feather ecosystem is extensive with great documentation, [videos](), software libraries, learning guides, [Discord group](https://discord.com/channels/327254708534116352/330410763594498050), etc.
+Adafruit’s **[Feather and FeatherWing](https://www.adafruit.com/category/943)** ecosystem is a modular, compact, and extensible platform for embedded systems development. The **Feather** boards serve as microcontroller development boards, while **FeatherWings** are add-on boards that expand their functionality. Adafruit Feather ecosystem is extensive with great documentation, [videos](https://www.youtube.com/@adafruit), software libraries, learning guides, [Discord group](https://discord.com/channels/327254708534116352/330410763594498050), etc.
 
 ---
 
