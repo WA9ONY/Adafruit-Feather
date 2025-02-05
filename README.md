@@ -54,6 +54,8 @@ Data logger to attached to a kit.
 
 [Adafruit STEMMA QT / Qwiic JST SH 4-pin Cable](https://www.adafruit.com/product/4210)
 
+[Adafruit Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236)
+
 
 <HR>
 
