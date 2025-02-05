@@ -104,6 +104,7 @@ Data logger to attached to a kit.
 - Check available memory for Data.CSV file.
 - Look into different ways to do time loops
 - I2C sensor DPS310
+- Sleep mode
 
 <HR>
 
