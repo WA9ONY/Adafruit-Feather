@@ -87,7 +87,7 @@ FeatherWings attach to Feathers and provide additional features. These include *
 
 <HR>
   
-## Project 1 Data Logger
+## **5. Project 1 Data Logger
 
 <A HREF="https://github.com/WA9ONY/Adafruit-Feather/blob/main/Feather-RP2040/README.md">Adafruit Feather RP2040</A>
 
@@ -111,7 +111,7 @@ Data logger to attached to a kit.
        <img width="500" height="281" src="/Images/FeatherRP2040a.PNG">
 </p>
   
-## Hardware
+# Hardware
 
 [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
 - Product ID: 4884
@@ -141,7 +141,7 @@ Data logger to attached to a kit.
        <img width="138" height="146" src="/Images/Adafruit_blinkaS.png">
 </p>
 
-## Software
+# Software
 
 - [CircuitPython](https://circuitpython.org/)
   - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
@@ -166,7 +166,7 @@ YouTube Tutorials and Lessions
        <img width="600" height="338" src="/Images/P500.PNG">
 </p>
 
-## Development Tools
+# Development Tools
 
 - [Raspberry Pi P500](https://www.raspberrypi.com/products/raspberry-pi-500/) running [Raspberry Pi OS 64-bit](https://www.raspberrypi.com/software/)
   - Help > Bookshelf > Books > Get Started with MicroPython on Raspberry Pi Pico
@@ -181,7 +181,7 @@ YouTube Tutorials and Lessions
        <img width="295" height="80" src="/Images/OpenAI_LogoS.png">
 </p>
 
-## AI Tools
+# AI Tools
 
 As of Feb. 4, 2025 [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  [ChatGPT o3-mini-high](https://en.wikipedia.org/wiki/OpenAI_o3) is used to:
 - Research hardware operation
