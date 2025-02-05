@@ -67,6 +67,9 @@ Data logger to attached to a kit.
   - [CircuitPython 9.2.4 for Adafruit Feather RP2040 as of Feb. 3, 2025](https://circuitpython.org/board/adafruit_feather_rp2040/)
   - [Libraries](https://circuitpython.org/libraries)
 
+ Adafruit
+ - [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/play-file)
+
 YouTube Tutorials and Lessions
 -  [Circuit Python Tutorials](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by Prof. John Gallaugher
   -  [Build With Prof. G](https://www.youtube.com/channel/UCY3yzXkS1vcqxN_RqKU17pg)
