@@ -14,7 +14,7 @@
 [Adafruit’s](https://www.adafruit.com/) **Feather and FeatherWing** ecosystem is a modular, compact, and extensible platform for embedded systems development. The **Feather** boards serve as microcontroller development boards, while **FeatherWings** are add-on boards that expand their functionality. 
 
 Adafruit Feather ecosystem is extensive with great 
-- [broad product line](https://www.adafruit.com/category/943),
+- [Broad product line](https://www.adafruit.com/category/943),
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico),
 - [Videos](https://www.youtube.com/@adafruit),
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
