@@ -68,7 +68,8 @@ Data logger to attached to a kit.
   - [Libraries](https://circuitpython.org/libraries)
 
  Adafruit
- - [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/play-file)
+- [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/play-file)
+- [John Park's CircuitPython Parsec](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr)
 
 YouTube Tutorials and Lessions
 -  [Circuit Python Tutorials](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by Prof. John Gallaugher
