@@ -11,7 +11,7 @@
 
 <HR>
   
-## Project 1 Goals
+## Project 1 Data Logger
 
 <A HREF="https://github.com/WA9ONY/Adafruit-Feather/blob/main/Feather-RP2040/README.md">Adafruit Feather RP2040</A>
 
