@@ -87,7 +87,7 @@ FeatherWings attach to Feathers and provide additional features. These include *
 
 <HR>
   
-## **5. Project 1 Data Logger
+## 5. Project 1 Data Logger
 
 <A HREF="https://github.com/WA9ONY/Adafruit-Feather/blob/main/Feather-RP2040/README.md">Adafruit Feather RP2040</A>
 
@@ -111,7 +111,7 @@ Data logger to attached to a kit.
        <img width="500" height="281" src="/Images/FeatherRP2040a.PNG">
 </p>
   
-# Hardware
+## 6. Hardware
 
 [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
 - Product ID: 4884
