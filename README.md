@@ -13,13 +13,15 @@
 [Adafruit’s](https://www.adafruit.com/) **Feather and FeatherWing** ecosystem is a modular, compact, and extensible platform for embedded systems development. The **Feather** boards serve as microcontroller development boards, while **FeatherWings** are add-on boards that expand their functionality. 
 
 Adafruit Feather ecosystem is extensive with great 
-- [Broad product line](https://www.adafruit.com/category/943),
-- [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico),
-- [Videos](https://www.youtube.com/@adafruit),
+- [Broad product line](https://www.adafruit.com/category/943)
+- [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+- [Videos](https://www.youtube.com/@adafruit)
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
-- [GitHub software libraries](https://github.com/adafruit),
-- [Learning system](https://learn.adafruit.com/),
-- [Discord group](https://discord.com/channels/327254708534116352/330410763594498050),
+- [GitHub software libraries](https://github.com/adafruit)
+- [Learning system](https://learn.adafruit.com/)
+- [Discord group](https://discord.com/channels/327254708534116352/330410763594498050)
+- [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
+  - An independent podcast with the people in and around CircuitPython. Created and hosted by Paul Cutler.
 - etc.
 
 ---
