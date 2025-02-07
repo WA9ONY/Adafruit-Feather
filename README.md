@@ -15,13 +15,27 @@
 Adafruit Feather ecosystem is extensive with great 
 - [Broad product line](https://www.adafruit.com/category/943)
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
-- [Videos](https://www.youtube.com/@adafruit)
+- [Videos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
+  - Sun. The Great Search
+  - Sun. Desk of Ladyada
+  - Mon. 11am PST on  CircuitPython Weekly Meeting
+  - Tue. JP’s Product Pick of the Week
+  - Wed. NewProducts
+  - Wed. Live ASK AN ENGINEER
+  - Wed. 4:30pm PST Live SHOW and TELL
+  - Thr. 9pm PST Live JOHN PARK'S WORKSHOP LIVE
+  - Fri. 2pm PST Live Deep Dive w/Scott
+  - EYE on NPI
+  - Adafruit Top Secret
+  - Tutorial:
+  - John Park's CircuitPython Parsec
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
 - [Learning system](https://learn.adafruit.com/)
 - [Discord group](https://discord.com/channels/327254708534116352/330410763594498050)
 - [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
   - An independent podcast with the people in and around CircuitPython. Created and hosted by Paul Cutler.
+- [Blog](https://blog.adafruit.com/page/2/)
 - etc.
 
 ---
@@ -161,6 +175,7 @@ Data logger to attached to a kit.
   - [Libraries](https://circuitpython.org/libraries)
   - [Examples code](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20250205) >340 product, >1,400 Circuitpython example files as of February 05, 2025
   - [Community libraries](https://circuitpython.org/libraries)
+  - [CircuitPython 2025](https://www.youtube.com/watch?v=klyVOe_1nUA)
 
  Adafruit
 - [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/play-file)
