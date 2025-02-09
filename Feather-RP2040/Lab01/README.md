@@ -163,3 +163,142 @@ Today’s lab covered:
 - Troubleshooting common issues encountered during the process.
 
 Feel free to ask any questions if any part of the lab was unclear or if you ran into any difficulties. Happy coding, and I look forward to reviewing your lab reports and code modifications!
+
+## circup
+
+Raspberry Pi  P500 termainal
+
+59  source circup-env/bin/activate
+   60  pip install circup
+   61  clear
+   62  circup list
+   63  clear
+   64  circup update
+   65  clear
+   66  circup diff
+   67  circup --help
+   68  deactivate
+   69  history
+   70  source circup-env/bin/activate
+   71  circup list
+   72  pip3 install --upgrade thonny
+   73  source circup-env/bin/activate
+   74  pip3 install --upgrade thonny
+   75  deactivate
+   76  history
+   77  source circup-env/bin/activate
+   78  deactivate
+   79  ls /dev/ttyACM*
+   80  dmesg | grep tty
+   81  sudo usermod -a -G dialout $USER
+   82  history
+david@rpi500:~ $ !73
+source circup-env/bin/activate
+(circup-env) david@rpi500:~ $ !62
+circup list
+Found device adafruit_feather_rp2040 at /media/david/CIRCUITPY, running CircuitPython 9.2.4.
+Downloading latest bundles for adafruit/Adafruit_CircuitPython_Bundle (20250208).
+py:
+Extracting:  [####################################]  100%          
+8.x-mpy:
+Extracting:  [####################################]  100%          
+9.x-mpy:
+Extracting:  [####################################]  100%          
+
+OK
+
+All modules found on the device are up to date.
+(circup-env) david@rpi500:~ $ circup list
+Found device adafruit_feather_rp2040 at /media/david/CIRCUITPY, running CircuitPython 9.2.4.
+All modules found on the device are up to date.
+(circup-env) david@rpi500:~ $ help circup
+bash: help: no help topics match `circup'.  Try `help help' or `man -k circup' or `info circup'.
+(circup-env) david@rpi500:~ $ circup --version
+Circup, A CircuitPython module updater. Version 2.1.1
+(circup-env) david@rpi500:~ $ circup help
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+Try 'circup --help' for help.
+
+Error: No such command 'help'.
+(circup-env) david@rpi500:~ $ circup -help
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+Try 'circup --help' for help.
+
+Error: No such option: -h
+(circup-env) david@rpi500:~ $ circup --help
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+
+  A tool to manage and update libraries on a CircuitPython device.
+
+Options:
+  --verbose           Comprehensive logging is sent to stdout.
+  --path DIRECTORY    Path to CircuitPython directory. Overrides automatic
+                      path detection.
+  --host TEXT         Hostname or IP address of a device. Overrides automatic
+                      path detection.
+  --port INTEGER      Port to contact. Overrides automatic path detection.
+  --password TEXT     Password to use for authentication when --host is used.
+                      You can optionally set an environment variable
+                      CIRCUP_WEBWORKFLOW_PASSWORD instead of passing this
+                      argument. If both exist the CLI arg takes precedent.
+  --timeout INTEGER   Specify the timeout in seconds for any network
+                      operations.
+  --board-id TEXT     Manual Board ID of the CircuitPython device. If provided
+                      in combination with --cpy-version, it overrides the
+                      detected board ID.
+  --cpy-version TEXT  Manual CircuitPython version. If provided in combination
+                      with --board-id, it overrides the detected CPy version.
+  --version           Show the version and exit.
+  --help              Show this message and exit.
+
+Commands:
+  bundle-add     Add bundles to the local bundles list, by "user/repo"...
+  bundle-remove  Remove one or more bundles from the local bundles list.
+  bundle-show    Show the list of bundles, default and local, with URL,...
+  example        Copy named example(s) from a bundle onto the device.
+  freeze         Output details of all the modules found on the connected...
+  install        Install a named module(s) onto the device.
+  list           Lists all out of date modules found on the connected...
+  show           Show a list of available modules in the bundle.
+  uninstall      Uninstall a named module(s) from the connected device.
+  update         Update modules on the device. Use --all to automatically
+                 update all modules without Major Version warnings.
+(circup-env) david@rpi500:~ $ circup -a
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+Try 'circup --help' for help.
+
+Error: No such option: -a
+(circup-env) david@rpi500:~ $ circup --auto
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+Try 'circup --help' for help.
+
+Error: No such option: --auto Did you mean --path?
+(circup-env) david@rpi500:~ $ ^C
+(circup-env) david@rpi500:~ $ circup insatll -a
+Usage: circup [OPTIONS] COMMAND [ARGS]...
+Try 'circup --help' for help.
+
+Error: No such command 'insatll'.
+(circup-env) david@rpi500:~ $ circup install -a
+Found device adafruit_feather_rp2040 at /media/david/CIRCUITPY, running CircuitPython 9.2.4.
+Auto file: code.py
+Auto file path: code.py
+Auto file path: /media/david/CIRCUITPY/code.py
+Searching for dependencies for: ['adafruit_display_text', 'adafruit_displayio_sh1107']
+Ready to install: ['adafruit_bitmap_font', 'adafruit_display_text', 'adafruit_displayio_sh1107', 'adafruit_ticks']
+
+Installed 'adafruit_bitmap_font'.
+Installed 'adafruit_display_text'.
+Installed 'adafruit_displayio_sh1107'.
+Installed 'adafruit_ticks'.
+(circup-env) david@rpi500:~ $ ^C
+(circup-env) david@rpi500:~ $ 
+
+ource circup-env/bin/activate
+circup list
+help circup
+circup --version
+circup --help
+circup install -a
+deactivate
+
