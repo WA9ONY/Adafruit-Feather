@@ -222,3 +222,13 @@ As of Feb. 4, 2025 [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  [ChatGPT o3-m
 The world of AI is moving fast and in a few months there will be better AI coding models.
 
 - [OpenAI](https://openai.com/) ChatGPT o3-mini-high
+
+
+<HR>
+
+<p align="center">
+       <img width="103" height="113" src="/Images/I2C_bus_logo.png">
+</p>
+
+# 10. AI Tools
+
