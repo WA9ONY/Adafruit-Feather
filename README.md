@@ -17,7 +17,7 @@ Adafruit Feather ecosystem is extensive with great
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
 - [Videos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
   - Sun. 9:30am PST Desk of Ladyada, The Great Search
-  - Mon. 11am PST on  CircuitPython Weekly Meeting
+  - Mon. 2pm PST on  CircuitPython Weekly Meeting
   - Tue. JP’s Product Pick of the Week
   - Wed. NewProducts
   - Wed. Live ASK AN ENGINEER
