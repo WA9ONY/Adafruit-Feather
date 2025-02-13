@@ -23,13 +23,14 @@ Adafruit Feather ecosystem is extensive with great
   - Wed. NewProducts
   - Wed. 4:30pm PST Live SHOW and TELL
   - Wed. 6pm PST Live ASK AN ENGINEER
+     - Time Travel
   - Thr. 1pm PST Live JOHN PARK'S WORKSHOP LIVE
   - Fri. 2pm PST Live Deep Dive w/Scott
     - Discord Adafruit # live-broadcast-chat
+  - Fri. 3D Handout with Noe and Pedro Ruiz
   - Adafruit Top Secret
   - Tutorial:
   - John Park's CircuitPython Parsec
-  - Time Travel News
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
 - [Learning system](https://learn.adafruit.com/)
@@ -37,6 +38,7 @@ Adafruit Feather ecosystem is extensive with great
 - [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
   - An independent podcast with the people in and around CircuitPython. Created and hosted by Paul Cutler.
 - [Blog](https://blog.adafruit.com/page/2/)
+- Adafruit Daily newsletter
 - etc.
 
 ---
