@@ -15,14 +15,14 @@
 Adafruit Feather ecosystem is extensive with great 
 - [Broad product line](https://www.adafruit.com/category/943)
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
-- [Videos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
+- [YouVideos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
   - Sun. 9:30am PST Desk of Ladyada, The Great Search
   - Mon. 2pm PST CircuitPython Weekly Meeting
   - Tue. 9am PST EYE on NPI
-  - Tue. 1pm JP’s Product Pick of the Week
+  - Tue. 1pm PST JP’s Product Pick of the Week
   - Wed. NewProducts
-  - Wed. 6pmLive ASK AN ENGINEER
   - Wed. 4:30pm PST Live SHOW and TELL
+  - Wed. 6pm PST Live ASK AN ENGINEER
   - Thr. 1pm PST Live JOHN PARK'S WORKSHOP LIVE
   - Fri. 2pm PST Live Deep Dive w/Scott
     - Discord Adafruit # live-broadcast-chat
