@@ -23,7 +23,7 @@ Adafruit Feather ecosystem is extensive with great
   - Wed. NewProducts
   - Wed. 6pmLive ASK AN ENGINEER
   - Wed. 4:30pm PST Live SHOW and TELL
-  - Thr. 9pm PST Live JOHN PARK'S WORKSHOP LIVE
+  - Thr. 1pm PST Live JOHN PARK'S WORKSHOP LIVE
   - Fri. 2pm PST Live Deep Dive w/Scott
     - Discord Adafruit # live-broadcast-chat
   - Adafruit Top Secret
