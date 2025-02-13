@@ -21,7 +21,7 @@ Adafruit Feather ecosystem is extensive with great
   - Tue. 9am PST EYE on NPI
   - Tue. 1pm JP’s Product Pick of the Week
   - Wed. NewProducts
-  - Wed. Live ASK AN ENGINEER
+  - Wed. 6pmLive ASK AN ENGINEER
   - Wed. 4:30pm PST Live SHOW and TELL
   - Thr. 9pm PST Live JOHN PARK'S WORKSHOP LIVE
   - Fri. 2pm PST Live Deep Dive w/Scott
