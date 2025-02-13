@@ -29,6 +29,7 @@ Adafruit Feather ecosystem is extensive with great
   - Adafruit Top Secret
   - Tutorial:
   - John Park's CircuitPython Parsec
+  - Time Travel News
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
 - [Learning system](https://learn.adafruit.com/)
