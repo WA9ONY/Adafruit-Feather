@@ -30,7 +30,7 @@ Adafruit Feather ecosystem is extensive with great
   - Fri. 3D Handout with Noe and Pedro Ruiz
   - Adafruit Top Secret
   - Tutorial:
-  - John Park's CircuitPython Parsec
+  - [John Park's CircuitPython Parsec](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr)
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
 - [Learning system](https://learn.adafruit.com/)
@@ -48,6 +48,9 @@ Adafruit Feather ecosystem is extensive with great
   - Internet of Things Monthly
   - MakeCode
   - EYE on NPI
+
+Podcast
+-  [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
 
 ---
 
