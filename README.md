@@ -51,6 +51,7 @@ Adafruit Feather ecosystem is extensive with great
 
 Podcast
 -  [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
+-  [The Bootloader](https://www.circuitpythonshow.com/@thebootloader)
 
 ---
 
