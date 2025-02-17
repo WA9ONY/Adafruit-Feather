@@ -10,6 +10,12 @@
 
 Goal is to develop a altimeter that is used on kite.
 
+# Kite Altimeter YouTube by David WA9ONY
+
+Altimeter Progress YouTube Videos
+- [](https://youtube.com/shorts/cqNSkFrghns?si=oUt2FXK8ya5LukTG)
+
+
 # Development System
 
 <p align="center">
