@@ -7,3 +7,6 @@
 </p>
 
 # Kite Altimeter
+
+Above image is the development system for creating a kite altimeter.
+
