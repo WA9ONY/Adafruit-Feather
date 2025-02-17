@@ -10,10 +10,12 @@
 
 Goal is to develop a altimeter that is used on 8' delta kite attached to 1,000 ft of kite line that is flown on Cannon Beach, Oregon.
 
-# Kite Altimeter YouTube by David WA9ONY
+CircuitPython code is in Vxx directories.  
+
+# Kite Altimeter Testing
 
 Altimeter Progress YouTube Videos
-- [Altimeter Walk Test](https://youtube.com/shorts/cqNSkFrghns?si=oUt2FXK8ya5LukTG)
+- [Altimeter Walk Test](https://youtube.com/shorts/cqNSkFrghns?si=oUt2FXK8ya5LukTG) YouTube
   - Observation:
     - Need to understand the pressure changes at the base position.
     - Need a smaller food container for the altimeter case.
