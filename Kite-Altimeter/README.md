@@ -10,7 +10,8 @@
 
 Goal is to develop a altimeter that is used on 8' delta kite attached to 1,000 ft of kite line that is flown on Cannon Beach, Oregon.
 
-CircuitPython code is in Vxx directories at Adafruit-Feather/Kite-Altimeter/.  
+Kite altimeter CircuitPython code is in Vxx directories at Adafruit-Feather/Kite-Altimeter/codeVxx.py.  
+
 
 # Kite Altimeter Testing
 
@@ -20,6 +21,7 @@ Altimeter Progress YouTube Videos
     - Need to understand the pressure changes at the base position.
     - Need a smaller food container for the altimeter case.
     - Need to get the logging SD card working.
+
 
 # Kite Altimeter Hardware
 
@@ -31,6 +33,7 @@ Adafruit Feather System
 - [Adalogger FeatherWing - RTC pcf8523 + SD ](https://www.adafruit.com/product/2922)
 - [FeatherWing Tripler](https://www.adafruit.com/product/3417)
 - [Adafruit Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236) 
+
 
 # Development Tools
 
