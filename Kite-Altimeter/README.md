@@ -10,7 +10,7 @@
 
 Goal is to develop a altimeter that is used on 8' delta kite attached to 1,000 ft of kite line that is flown on Cannon Beach, Oregon.
 
-CircuitPython code is in Vxx directories.  
+CircuitPython code is in Vxx directories at Adafruit-Feather/Kite-Altimeter/.  
 
 # Kite Altimeter Testing
 
