@@ -30,7 +30,7 @@ YouTube
 - [17 | Measure altitude with the BMP280 barometric sensor](https://youtu.be/rabWc5W84ug?si=DWZH9ALgdRfxRoQ3)
   - [Carbon Aeronautics](https://github.com/CarbonAeronautics)
   - [Part XVII: Measure altitude with the BMP280 barometer](https://github.com/CarbonAeronautics/Part-XVII-MeasureAltitude)
-- []()
+- [Arduino Uno R4 WiFi LESSON 56: Measure Altitude with an Arduino and BMP180 Project](https://youtu.be/dBZQhYCuCEY?si=91WeISXrhJqAhRd6)
 - []()
 - []()
 - []()
