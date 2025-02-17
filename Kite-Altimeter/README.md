@@ -18,12 +18,12 @@ Altimeter Progress YouTube Videos
 # Kite Altimeter Hardware
 
 Adafruit Feather System
-- Adafruit Feather RP2040 https://www.adafruit.com/product/4884
-- Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor  https://www.adafruit.com/product/4494
-- STEMMA QT / Qwiic JST SH 4-Pin Cable - 50mm Long https://www.adafruit.com/product/4399
-- Adafruit FeatherWing OLED - 128x64 https://www.adafruit.com/product/4650
-- Adalogger FeatherWing - RTC pcf8523 + SD  https://www.adafruit.com/product/2922 
-- FeatherWing Tripler https://www.adafruit.com/product/3417
+- [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
+- [Adafruit DPS310 Precision Barometric Pressure / Altitude Sensor](https://www.adafruit.com/product/4494)
+- [STEMMA QT / Qwiic JST SH 4-Pin Cable - 50mm Long](https://www.adafruit.com/product/4399)
+- [Adafruit FeatherWing OLED - 128x64](https://www.adafruit.com/product/4650)
+- [Adalogger FeatherWing - RTC pcf8523 + SD ](https://www.adafruit.com/product/2922)
+- [FeatherWing Tripler](https://www.adafruit.com/product/3417)
 - Adafruit LiPo Battery TBD
 
 # Development Tools
@@ -32,7 +32,7 @@ Adafruit Feather System
        <img width="640" height="360" src="/Images/KAdev.jpeg">
 </p>
 
-Above image is the development system for creating a kite altimeter.
+Above image is a early photo of the the development system for creating a kite altimeter.
 
 Software tools
 - Raspberry Pi 500 Rev 1.0 computer
