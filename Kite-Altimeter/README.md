@@ -28,8 +28,8 @@ Above image is the development system for creating a kite altimeter.
 
 YouTube
 - [17 | Measure altitude with the BMP280 barometric sensor](https://youtu.be/rabWc5W84ug?si=DWZH9ALgdRfxRoQ3)
-- []()
-- []()
+  - [Carbon Aeronautics](https://github.com/CarbonAeronautics)
+  - [Part XVII: Measure altitude with the BMP280 barometer](https://github.com/CarbonAeronautics/Part-XVII-MeasureAltitude)
 - []()
 - []()
 - []()
