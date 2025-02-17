@@ -8,6 +8,7 @@
 
 # Kite Altimeter
 
+Goal is to develop a altimeter that is used on kite.
 
 # Development System
 
