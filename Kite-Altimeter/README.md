@@ -8,12 +8,16 @@
 
 # Kite Altimeter
 
-Goal is to develop a altimeter that is used on kite.
+Goal is to develop a altimeter that is used on 8' delta kite attached to 1,000 ft of kite line that is flown on Cannon Beach, Oregon.
 
 # Kite Altimeter YouTube by David WA9ONY
 
 Altimeter Progress YouTube Videos
 - [Altimeter Walk Test](https://youtube.com/shorts/cqNSkFrghns?si=oUt2FXK8ya5LukTG)
+  - Observation:
+    - Need to understand the pressure changes at the base position.
+    - Need a smaller food container for the altimeter case.
+    - Need to get the logging SD card working.
 
 # Kite Altimeter Hardware
 
