@@ -380,3 +380,18 @@ https://www.adafruit.com/product/3295
 Coxxect
 [Blog](https://coxxect.blogspot.com/)
 [YouTube](https://www.youtube.com/@coxxect)
+
+
+
+<HR>
+
+<p align="center">
+       <img width="358" height="193" src="/Images/Aepher.pngg">
+</p>
+
+# 11. Zephyr RTOS Project
+
+[Zephyr](https://www.zephyrproject.org/)
+
+Supported Boards
+- RP2040 & RP2350a
