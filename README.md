@@ -386,7 +386,7 @@ Coxxect
 <HR>
 
 <p align="center">
-       <img width="358" height="193" src="/Images/Aepher.pngg">
+       <img width="358" height="193" src="/Images/Zepher.png">
 </p>
 
 # 11. Zephyr RTOS Project
