@@ -68,3 +68,13 @@ YouTube
 - []()
 - []()
 - 
+
+
+<HR>
+
+# Note
+
+Read Only Filesystem problem
+- Thonny Shell
+- import storage
+- storage.erase_filesystem()
