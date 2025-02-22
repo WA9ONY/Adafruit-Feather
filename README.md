@@ -16,6 +16,8 @@
 Adafruit Feather ecosystem is extensive with great 
 - [Broad product line](https://www.adafruit.com/category/943)
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+  - [Core Modules](https://docs.circuitpython.org/en/latest/shared-bindings/index.html)
+  - [Adafruit CircuitPython API Reference](https://docs.circuitpython.org/en/latest/docs/index.html)
 - [YouVideos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
   - Sun. 12pm PST Desk of Ladyada, The Great Search
   - Mon. 11am PST CircuitPython Weekly Meeting
