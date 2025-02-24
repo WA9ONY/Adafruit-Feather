@@ -392,6 +392,7 @@ Coxxect
 # 11. Zephyr RTOS Project
 
 [Zephyr](https://www.zephyrproject.org/)
+[Zephyr (operating system)](https://en.wikipedia.org/wiki/Zephyr_(operating_system))
 
 Supported Boards
 - RP2040 & RP2350a
