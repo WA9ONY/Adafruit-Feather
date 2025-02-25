@@ -100,6 +100,8 @@ Process to start logging
 - Close the Feather RP2040 Dx swith to ground
 - Turn on the Feather RP2040 with battery
 - Check Feather RP2040 LED for logging status.
+  - 1 second flashes writing to memory
+  - 0.25 or 2 second flashes error
 - When done logging power of Feather RP2040 by disconnecting the battery.
 
 Process to check logging file
