@@ -94,13 +94,13 @@ A digital input is used for CircuitPython or Ciomputer writes to RP2040 built-in
 
 
 Process to start logging
-- Close Thonny
+- Close editors, Thonny
 - Unmount Feather RP2040 from computer
 - Unplug Feather RP2040 from computer
 - Close the Feather RP2040 Dx swith to ground
 - Turn on the Feather RP2040 with battery
 - Check Feather RP2040 LED for logging status.
-- Whenb done logging power of Feather RP2040 by disconnecting the battery.
+- When done logging power of Feather RP2040 by disconnecting the battery.
 
 Process to check logging file
 - Feather RP2040 is off
@@ -110,4 +110,4 @@ Process to check logging file
 - datalog.txt is listed if things worked correctly.
 - Copy datalog.txt to computer.
 - Delete datalog.txt on Feather RP2040
-- If needed open Thonny to update code.py
+- If needed open Text Editor to update code.py
