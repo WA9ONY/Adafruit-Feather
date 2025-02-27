@@ -25,7 +25,7 @@ Adafruit Feather ecosystem is extensive with great
   - Tue. 1pm PST JP’s Product Pick of the Week
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Wed. 4:30pm PST Live SHOW and TELL
-  - Wed. 6pm PST Live ASK AN ENGINEER
+  - Wed. 5:30pm PST Live ASK AN ENGINEER
     - Time Travel
   - Thr. 1pm PST Live JOHN PARK'S WORKSHOP LIVE
     - Review of JP's Product Pick of the Week
