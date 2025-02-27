@@ -18,14 +18,12 @@ Adafruit Feather ecosystem is extensive with great
 - [Documentation](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
   - [Core Modules](https://docs.circuitpython.org/en/latest/shared-bindings/index.html)
   - [Adafruit CircuitPython API Reference](https://docs.circuitpython.org/en/latest/docs/index.html)
-- [YouVideos](https://www.youtube.com/@adafruit/videos)  & [Live](https://www.youtube.com/@adafruit/streams)
+- [Live](https://www.youtube.com/@adafruit/streams) YouTube
   - Sun. 12pm PST Desk of Ladyada, The Great Search
   - Mon. 11am PST CircuitPython Weekly Meeting
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
-  - Tue. 9am PST EYE on NPI
   - Tue. 1pm PST JP’s Product Pick of the Week
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
-  - Wed. NewProducts
   - Wed. 4:30pm PST Live SHOW and TELL
   - Wed. 6pm PST Live ASK AN ENGINEER
     - Time Travel
@@ -37,6 +35,9 @@ Adafruit Feather ecosystem is extensive with great
   - Fri. 2pm PST Live Deep Dive w/Scott
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Fri. 3D Handout with Noe and Pedro Ruiz
+- [YouVideos](https://www.youtube.com/@adafruit/videos)
+  - Tue. 9am PST EYE on NPI
+  - Wed. NewProducts
   - Adafruit Top Secret
   - Tutorial:
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
