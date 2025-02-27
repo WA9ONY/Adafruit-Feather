@@ -27,7 +27,7 @@ Adafruit Feather ecosystem is extensive with great
   - Wed. 4:30pm PST Live SHOW and TELL
   - Wed. 5:30pm PST Live ASK AN ENGINEER
     - Time Travel
-  - Thr. 1pm PST Live JOHN PARK'S WORKSHOP LIVE
+  - Thr. 1pm PST Live JOHN PARK'S WORKSHOP
     - Review of JP's Product Pick of the Week
     - [John Park's CircuitPython Parsec](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr)
     - Workshop
