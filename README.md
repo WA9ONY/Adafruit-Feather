@@ -37,7 +37,7 @@ Adafruit Feather ecosystem is extensive with great
   - Fri. 3D Handout with Noe and Pedro Ruiz
 - [YouVideos](https://www.youtube.com/@adafruit/videos)
   - Tue. 9am PST EYE on NPI
-  - Wed. NewProducts
+  - Tue. NewProducts
   - Adafruit Top Secret
   - Tutorial:
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
