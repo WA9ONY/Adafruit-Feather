@@ -19,7 +19,6 @@ Adafruit Feather ecosystem is extensive with great
   - [Core Modules](https://docs.circuitpython.org/en/latest/shared-bindings/index.html)
   - [Adafruit CircuitPython API Reference](https://docs.circuitpython.org/en/latest/docs/index.html)
 - [Live](https://www.youtube.com/@adafruit/streams) YouTube
-  - Sun. 12pm PST Desk of Ladyada, The Great Search
   - Mon. 11am PST CircuitPython Weekly Meeting
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Tue. 1pm PST JP’s Product Pick of the Week
@@ -36,6 +35,8 @@ Adafruit Feather ecosystem is extensive with great
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Fri. 3D Handout with Noe and Pedro Ruiz
 - [YouVideos](https://www.youtube.com/@adafruit/videos)
+  - Sun. Desk of Ladyada
+  - Sun. The Great Search
   - Tue. 9am PST EYE on NPI
   - Tue. NewProducts
   - Adafruit Top Secret
