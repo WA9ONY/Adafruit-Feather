@@ -20,7 +20,7 @@ Adafruit Feather ecosystem is extensive with great
   - [Adafruit CircuitPython API Reference](https://docs.circuitpython.org/en/latest/docs/index.html)
 - [Live](https://www.youtube.com/@adafruit/streams) YouTube
   - Mon. 11am PST CircuitPython Weekly Meeting
-    - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
+    - [Discord Adafruit # circuitpython-dev](https://discord.com/channels/327254708534116352/327298996332658690)
   - Tue. 1pm PST JP’s Product Pick of the Week
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Wed. 4:30pm PST Live SHOW and TELL
