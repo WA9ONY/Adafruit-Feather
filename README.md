@@ -20,8 +20,8 @@ Adafruit Feather ecosystem is extensive with great
   - [Adafruit CircuitPython API Reference](https://docs.circuitpython.org/en/latest/docs/index.html)
 - [Live](https://www.youtube.com/@adafruit/streams) YouTube
   - Mon. 11am PST CircuitPython Weekly Meeting
-    - 1. Community News – Updates from the Python for Microcontrollers newsletter, including industry developments and milestones.
-    - 2. The State of CircuitPython, Libraries, and Blinka – A quantitative overview of the CircuitPython project, including merged pull requests, issue counts, and contributions.
+    1. Community News – Updates from the Python for Microcontrollers newsletter, including industry developments and milestones.
+    2. The State of CircuitPython, Libraries, and Blinka – A quantitative overview of the CircuitPython project, including merged pull requests, issue counts, and contributions.
       3. Hug Reports – A section where participants acknowledge and appreciate contributions from others in the community.
       4. Status Updates – Individual reports from community members on what they’ve been working on and their plans for the coming week.
       5. In the Weeds – A section for in-depth discussions on specific technical topics, challenges, or proposed changes to CircuitPython.
