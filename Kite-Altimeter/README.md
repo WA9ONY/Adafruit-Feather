@@ -34,7 +34,8 @@ Adafruit Feather System
 - [Adafruit FeatherWing OLED - 128x64](https://www.adafruit.com/product/4650)
 - [Adalogger FeatherWing - RTC pcf8523 + SD ](https://www.adafruit.com/product/2922)
 - [FeatherWing Tripler](https://www.adafruit.com/product/3417)
-- [Adafruit Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236) 
+- [Adafruit Lithium Ion Polymer Battery with Short Cable - 3.7V 420mAh](https://www.adafruit.com/product/4236)
+- {Adafruit_CircuitPython_MAX1704x GiyHub](https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x/tree/main)
 
 <HR>
 
