@@ -27,6 +27,7 @@ Adafruit Feather ecosystem is extensive with great
     5. In the Weeds – A section for in-depth discussions on specific technical topics, challenges, or proposed changes to CircuitPython.
     - [Discord Adafruit # circuitpython-dev](https://discord.com/channels/327254708534116352/327298996332658690)
   - Tue. 1pm PST JP’s Product Pick of the Week
+    - Example of using the product & 50% discout during the live video.
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Wed. 4:30pm PST Live SHOW and TELL
   - Wed. 5:30pm PST Live ASK AN ENGINEER
