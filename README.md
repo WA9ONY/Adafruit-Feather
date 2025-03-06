@@ -61,7 +61,7 @@ Adafruit Feather ecosystem is extensive with great
 - [Blog](https://blog.adafruit.com/page/2/)
 - [Adafruit Daily](https://adafruitdaily.com) newsletter on Wednesday
   - Daily tips and tricks from the experts at Adafruit!
-- Adafruit newsletters
+- [Adafruit newsletters](https://us10.campaign-archive.com/home/?u=86903b65c84293425f40fa9a5&id=fb19aaf2a5)
   - Electronics
   - [Python for Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/) every Monday
   - Maker Business
