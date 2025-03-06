@@ -38,6 +38,7 @@ Adafruit Feather ecosystem is extensive with great
   - Thr. 1pm PST Live JOHN PARK'S WORKSHOP
     - Review of JP's Product Pick of the Week
     - [John Park's CircuitPython Parsec](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr)
+      - [CircuitPython Parsec GitHub](https://github.com/jedgarpark/parsec)
     - Workshop
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
     - 10% discount code for the day
