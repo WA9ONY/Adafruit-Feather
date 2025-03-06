@@ -59,7 +59,9 @@ Adafruit Feather ecosystem is extensive with great
 - [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
   - An independent podcast with the people in and around CircuitPython. Created and hosted by Paul Cutler.
 - [Blog](https://blog.adafruit.com/page/2/)
-- [Adafruit Daily](https://adafruitdaily.com) newsletter
+- [Adafruit Daily](https://adafruitdaily.com) newsletter on Wednesday
+  - Daily tips and tricks from the experts at Adafruit!
+- Adafruit newsletters
   - Electronics
   - [Python for Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/) every Monday
   - Maker Business
