@@ -34,11 +34,13 @@ Adafruit Feather ecosystem is extensive with great
     - 0% off! code, check Discord
       - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)- 
     - Time Travel
+    - 3D Printing
   - Thr. 1pm PST Live JOHN PARK'S WORKSHOP
     - Review of JP's Product Pick of the Week
     - [John Park's CircuitPython Parsec](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr)
     - Workshop
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
+    - 10% discount code for the day
   - Fri. 2pm PST Live Deep Dive w/Scott
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Fri. 3D Handout with Noe and Pedro Ruiz
