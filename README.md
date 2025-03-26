@@ -30,6 +30,7 @@ Adafruit Feather ecosystem is extensive with great
     - Example of using the product & 50% discout during the live video.
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Wed. 4:30pm PST Live SHOW and TELL
+    - [Share Your Project on Adafruit Show and Tell](https://learn.adafruit.com/show-and-tell)
   - Wed. 5:00pm PST Live ASK AN ENGINEER
     - 0% off! code, check Discord
       - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)- 
