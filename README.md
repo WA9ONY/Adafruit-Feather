@@ -31,6 +31,7 @@ Adafruit Feather ecosystem is extensive with great
   - Tue. 1pm PST JP’s Product Pick of the Week
     - Example of using the product & 50% discout during the live video.
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
+  - Wed. 8:00am PST 3D Hangouts with Noe and Pedro Ruiz
   - Wed. 4:30pm PST Live SHOW and TELL
     - [Share Your Project on Adafruit Show and Tell](https://learn.adafruit.com/show-and-tell)
   - Wed. 5:00pm PST Live ASK AN ENGINEER
@@ -48,22 +49,13 @@ Adafruit Feather ecosystem is extensive with great
   - Fri. 2pm PST Live Deep Dive w/Scott
     - [Discord Adafruit # live-broadcast-chat](https://discord.com/channels/327254708534116352/330406870256975873)
   - Fri. 3D Handout with Noe and Pedro Ruiz
+  - Sat. 8:00am PST FoamyGuy's CircuitPython Stream
 - [YouVideos](https://www.youtube.com/@adafruit/videos)
-  - Sun. Desk of Ladyada
+  - Sun. Evening Desk of Ladyada
   - Sun. The Great Search
   - Tue. 9am PST EYE on NPI
   - Tue. NewProducts
   - Adafruit Top Secret
-
-  - Desk of Ladyada - Sunday Evening
-  - JP's Product Pick of the Week - 4pm ET Tuesdays
-  - 3D Hangouts - 11am ET Wednesdays
-  - Show & Tell - 7:30pm ET Wednesdays
-  - Ask an Engineer - 8pm ET Wednesdays
-  - John Park's Workshop - 4pm ET Thursdays
-  - Deep Dive w/ Foamyguy - 5pm ET Fridays
-  - FoamyGuy's CircuitPython Stream - 11am ET Saturdays
-
   - Tutorial:
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
