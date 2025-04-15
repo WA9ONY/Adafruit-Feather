@@ -54,6 +54,16 @@ Adafruit Feather ecosystem is extensive with great
   - Tue. 9am PST EYE on NPI
   - Tue. NewProducts
   - Adafruit Top Secret
+
+  - Desk of Ladyada - Sunday Evening
+  - JP's Product Pick of the Week - 4pm ET Tuesdays
+  - 3D Hangouts - 11am ET Wednesdays
+  - Show & Tell - 7:30pm ET Wednesdays
+  - Ask an Engineer - 8pm ET Wednesdays
+  - John Park's Workshop - 4pm ET Thursdays
+  - Deep Dive w/ Foamyguy - 5pm ET Fridays
+  - FoamyGuy's CircuitPython Stream - 11am ET Saturdays
+
   - Tutorial:
 - [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
 - [GitHub software libraries](https://github.com/adafruit)
